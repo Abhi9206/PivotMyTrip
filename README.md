@@ -28,7 +28,7 @@ PivotMyTrip addresses this problem by bringing the entire travel experience into
 
 The system not only plans the trip but also adapts in real time,allowing users to modify their itinerary dynamically as their journey unfolds, without disrupting the overall flow.
 
-# Key Features
+### Key Features
 
 - **AI Itinerary Generation** — Multi-day trip plans built by Groq LLM in seconds
 - **Live Simulation** — Watch your journey play out on an interactive map
