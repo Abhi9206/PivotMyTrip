@@ -62,8 +62,15 @@ PORT=8000
 
 ### 3. Run
 
+Backend:
 ```bash
-python run.py          # starts both backend and frontend
+uvicorn backend.main:app --reload --port 8000
+```
+
+Frontend:
+```bash
+cd client
+npm run dev
 ```
 
 | Service | URL |
