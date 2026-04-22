@@ -16,11 +16,9 @@ AI-powered travel itineraries that adapt in real time , no more overplanning or 
 
 ## Problem Statement
 
-Trip planning today is broken. Travelers are forced to juggle a fragmented set of disconnected tools for discovery, routing, scheduling, and navigation—often switching between multiple apps just to build a single itinerary. The process is time-consuming, overwhelming, and largely manual.
+Trip planning today is broken. Travelers are forced to juggle a fragmented set of disconnected tools for discovery, routing, scheduling, and navigation,often switching between multiple apps just to build a single itinerary. The process is time-consuming, overwhelming, and largely manual.
 
 Even worse, once the trip begins, most tools fail to adapt when plans change. A delayed stop, a new recommendation, bad weather, or a spontaneous detour can disrupt the entire day, leaving travelers with no intelligent way to update their itinerary in real time.
-
----
 
 ---
 
@@ -28,7 +26,7 @@ Even worse, once the trip begins, most tools fail to adapt when plans change. A 
 
 PivotMyTrip addresses this problem by bringing the entire travel experience into one intelligent, unified platform. Instead of relying on multiple disconnected tools, users can generate complete, day-by-day itineraries powered by AI and optimized for time and travel efficiency.
 
-The system not only plans the trip but also adapts in real time—allowing users to modify their itinerary dynamically as their journey unfolds, without disrupting the overall flow.
+The system not only plans the trip but also adapts in real time,allowing users to modify their itinerary dynamically as their journey unfolds, without disrupting the overall flow.
 
 Key Features
 
