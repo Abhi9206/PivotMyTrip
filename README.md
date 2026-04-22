@@ -6,7 +6,7 @@
 
 AI-powered travel itineraries that adapt in real time — no more overplanning or last-minute chaos.
 
-[![Watch Demo](https://img.shields.io/badge/▶_Watch_Demo-C85A2A?style=for-the-badge)](YOUR_DEMO_LINK_HERE)
+[![Watch Demo](https://img.shields.io/badge/▶_Watch_Demo-C85A2A?style=for-the-badge)](https://www.youtube.com/watch?v=lQJ7_jclZ-k)
 
 ![PivotMyTrip Landing](docs/screenshot.png)
 
