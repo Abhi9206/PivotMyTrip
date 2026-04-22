@@ -18,7 +18,7 @@ AI-powered travel itineraries that adapt in real time — no more overplanning o
 
 - **AI Itinerary Generation** — Multi-day trip plans built by Groq LLM in seconds
 - **Live Simulation** — Watch your journey play out on an interactive map
-- **Mid-Trip Pivoting** — Add or swap stops while travelling; the route updates instantly
+- **Mid-Trip Planning** — Add or swap stops while travelling; the route updates instantly
 - **Auto Check-In** — Proximity-based check-ins as you move through each stop
 - **Smart Replan** — Reoptimise remaining stops from your current location
 
