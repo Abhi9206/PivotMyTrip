@@ -4,7 +4,7 @@
 
 **Plan Less. Experience More.**
 
-AI-powered travel itineraries that adapt in real time — no more overplanning or last-minute chaos.
+AI-powered travel itineraries that adapt in real time , no more overplanning or last-minute chaos.
 
 [![Watch Demo](https://img.shields.io/badge/▶_Watch_Demo-C85A2A?style=for-the-badge)](https://www.youtube.com/watch?v=lQJ7_jclZ-k)
 
@@ -84,7 +84,7 @@ npm run dev
 ## Project Structure
 
 ```
-PivotMyTrip/
+src/
 ├── backend/
 │   ├── main.py          # FastAPI entrypoint
 │   ├── routers/         # API routes (itinerary, tracking, voice)
