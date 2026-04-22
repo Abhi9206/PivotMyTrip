@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌍 PivotMyTrip
+# PivotMyTrip
 
 **Plan Less. Experience More.**
 
