@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🌍 PivotMyTrip
+# PivotMyTrip
 
 **Plan Less. Experience More.**
 
-AI-powered travel itineraries that adapt in real time — no more overplanning or last-minute chaos.
+AI-powered travel itineraries that adapt in real time , no more overplanning or last-minute chaos.
 
 [![Watch Demo](https://img.shields.io/badge/▶_Watch_Demo-C85A2A?style=for-the-badge)](https://www.youtube.com/watch?v=lQJ7_jclZ-k)
 
@@ -14,11 +14,25 @@ AI-powered travel itineraries that adapt in real time — no more overplanning o
 
 ---
 
-## What It Does
+## Problem Statement
+
+Trip planning today is broken. Travelers are forced to juggle a fragmented set of disconnected tools for discovery, routing, scheduling, and navigation,often switching between multiple apps just to build a single itinerary. The process is time-consuming, overwhelming, and largely manual.
+
+Even worse, once the trip begins, most tools fail to adapt when plans change. A delayed stop, a new recommendation, bad weather, or a spontaneous detour can disrupt the entire day, leaving travelers with no intelligent way to update their itinerary in real time.
+
+---
+
+## Solution
+
+PivotMyTrip addresses this problem by bringing the entire travel experience into one intelligent, unified platform. Instead of relying on multiple disconnected tools, users can generate complete, day-by-day itineraries powered by AI and optimized for time and travel efficiency.
+
+The system not only plans the trip but also adapts in real time,allowing users to modify their itinerary dynamically as their journey unfolds, without disrupting the overall flow.
+
+### Key Features
 
 - **AI Itinerary Generation** — Multi-day trip plans built by Groq LLM in seconds
 - **Live Simulation** — Watch your journey play out on an interactive map
-- **Mid-Trip Pivoting** — Add or swap stops while travelling; the route updates instantly
+- **Mid-Trip Planning** — Add or swap stops while travelling; the route updates instantly
 - **Auto Check-In** — Proximity-based check-ins as you move through each stop
 - **Smart Replan** — Reoptimise remaining stops from your current location
 
@@ -84,7 +98,7 @@ npm run dev
 ## Project Structure
 
 ```
-PivotMyTrip/
+src/
 ├── backend/
 │   ├── main.py          # FastAPI entrypoint
 │   ├── routers/         # API routes (itinerary, tracking, voice)
