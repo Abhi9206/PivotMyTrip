@@ -115,7 +115,9 @@ src/
 ```
 
 ---
+## License & Copyright
 
-## License
+© 2026 PivotMyTrip. All Rights Reserved.
 
-MIT
+This project is **proprietary and confidential**. Viewing this repository does not grant any right to use, copy, modify, or distribute the code or its concept. See the [LICENSE](LICENSE) file for full terms.
+
